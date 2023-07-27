@@ -1,3 +1,15 @@
+# v0.0.3 (Thu Jul 27 2023)
+
+#### 🐛 Bug Fix
+
+- Update index.html [#3](https://github.com/saimasartej/container-jjpdpdw/pull/3) ([@saimasartej](https://github.com/saimasartej))
+
+#### Authors: 1
+
+- [@saimasartej](https://github.com/saimasartej)
+
+---
+
 # v0.0.2 (Thu Jul 27 2023)
 
 #### 🐛 Bug Fix
