@@ -16,8 +16,8 @@ app = Flask(__name__)
 def index():
 
 
-    while True:
-        time.sleep(60)
-        requests.post(SEND_URL, json={'chat_id': CHAT_ID, 'text': 'nifty_kjhindex_data'})  
+  #  while True:
+      #  time.sleep(60)
+     #   requests.post(SEND_URL, json={'chat_id': CHAT_ID, 'text': 'nifty_kjhindex_data'})  
     
     return "thgrr"
