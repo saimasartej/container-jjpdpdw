@@ -1,3 +1,15 @@
+# v0.0.6 (Thu Jul 27 2023)
+
+#### 🐛 Bug Fix
+
+- Update app.py [#6](https://github.com/saimasartej/container-jjpdpdw/pull/6) ([@saimasartej](https://github.com/saimasartej))
+
+#### Authors: 1
+
+- [@saimasartej](https://github.com/saimasartej)
+
+---
+
 # v0.0.5 (Thu Jul 27 2023)
 
 #### 🐛 Bug Fix
